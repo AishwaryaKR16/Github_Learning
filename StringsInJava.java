@@ -85,7 +85,7 @@ public class StringsInJava {
 	    	System.out.println(finish);
 	    }
 	   
-	    
+	    // StringBuffer and String Builder are the part of charSequence
 	    
 		
 		
