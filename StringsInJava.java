@@ -72,6 +72,18 @@ public class StringsInJava {
 	    System.out.println(name.indexOf("i"));
 	    System.out.println(name.indexOf("i",5));
 	    System.out.println(name.indexOf('h',2));
+
+	      //Returns a joined string with the given delimiter
+	    System.out.println(String.join("_","Srimathe","Ramanujaya","Namaha"));
+	    System.out.println(String.join("-" ,"23","05","2024"));
+	    
+	    
+	    //Spilt 
+	    String message = "Maam ekam charanam vraja";
+	    String[]finalMessage= message.split(" ");
+	    for (String finish:finalMessage) {
+	    	System.out.println(finish);
+	    }
 	   
 	    
 	    
