@@ -90,7 +90,11 @@ public class StringsInJava {
            //will learn for each loop and Regex 
 
 		//Selenium Concepts
-		
+
+		//Collections
+		//MAPS
+		//POM
+		//BDD
 		
 		
 		
